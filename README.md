@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @bitua-design
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Figma
-- 💞️ I’m looking to collaborate on Web Designing
-- 📫 How to reach me through Git
+### 👋 Hey there, I’m Shivam Singh (@bitua-design)  
 
-<!---
-bitua-design/bitua-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **About Me**  
+I'm a passionate **Web Designer** with a knack for crafting seamless, user-centric digital experiences. My work revolves around blending creativity with code to bring designs to life.  
+
+🎨 **Currently Exploring:**  
+- Diving deeper into **Figma** for UI/UX excellence  
+- Experimenting with new trends in web design and front-end technologies  
+
+🤝 **Let's Collaborate:**  
+Looking to join forces on **web design** projects that push boundaries and create something extraordinary.  
+
+📬 **Get in Touch:**  
+Reach out to me on [GitHub](https://github.com/bitua-design) or drop me a message anytime!  
+
+✨ Fun Fact:  
+I believe great design starts with empathy and thrives with innovation!  
+
+---
+_"Your website is your digital handshake — make it memorable."_  
