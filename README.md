@@ -12,6 +12,7 @@ Looking to join forces on **web design** projects that push boundaries and creat
 
 📬 **Get in Touch:**  
 Reach out to me on [GitHub](https://github.com/bitua-design) or drop me a message anytime!  
+Portfolio link - (https://visual-rectangle-646270.framer.app/)
 
 ✨ Fun Fact:  
 I believe great design starts with empathy and thrives with innovation!  
