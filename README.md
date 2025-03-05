@@ -3,6 +3,8 @@
 🌟 **About Me**  
 I'm a passionate **Web Designer** with a knack for crafting seamless, user-centric digital experiences. My work revolves around blending creativity with code to bring designs to life.  
 
+Email - Shivamsingh382@gmail.com
+
 🎨 **Currently Exploring:**  
 - Diving deeper into **Figma** for UI/UX excellence  
 - Experimenting with new trends in web design and front-end technologies  
